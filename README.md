@@ -8,9 +8,9 @@
       <a href="https://github.com/youngting520/youngting520.github.io/blob/main/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/README.md">阅读 6 篇文章 →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/youngting520/douyin-knowledge#主题目录"><img src="https://raw.githubusercontent.com/youngting520/youngting520/main/assets/douyin-knowledge-cover.png" width="100%" alt="知识库"></a><br>
+      <a href="https://github.com/youngting520/knowledge-base"><img src="https://raw.githubusercontent.com/youngting520/knowledge-base/main/assets/knowledge-base-cover.jpg" width="100%" alt="我的知识库"></a><br>
       收录 AI 与效率、音乐与乐理、绘画与手工、英语与语言、编程与数码、文学与人文、摄影与影像、学习与教育八类笔记，附实用 Skill 清单。<br>
-      <a href="https://github.com/youngting520/douyin-knowledge#主题目录">浏览 8 个主题 →</a>
+      <a href="https://github.com/youngting520/knowledge-base">打开我的知识库 →</a>
     </td>
   </tr>
 </table>
