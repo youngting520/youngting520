@@ -10,7 +10,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/youngting520/knowledge-base"><img src="https://raw.githubusercontent.com/youngting520/knowledge-base/main/assets/knowledge-base-cover.jpg" width="100%" alt="我的知识库"></a><br>
       每周同步 <a href="https://github.com/youngting520/knowledge-base/blob/main/%E4%B8%BB%E9%A2%98/AI%E4%B8%8E%E6%95%88%E7%8E%87.md">AI 与效率（<span id="kb-count-ai">36</span> 篇）</a>和<a href="https://github.com/youngting520/knowledge-base/blob/main/%E4%B8%BB%E9%A2%98/%E7%BC%96%E7%A8%8B%E4%B8%8E%E6%95%B0%E7%A0%81.md">编程与数码（<span id="kb-count-digital">16</span> 篇）</a>，共 <span id="kb-count-total">52</span> 篇笔记。另有一份按任务整理的 Skill 推荐清单。<br>
-      <a href="https://github.com/youngting520/knowledge-base">打开我的知识库</a> · <a href="https://github.com/youngting520/knowledge-base/blob/main/%E5%BE%88%E9%A1%B6%E7%9A%84Skill%E6%8E%A8%E8%8D%90.md">很顶的Skill推荐</a>
+      <a href="https://github.com/youngting520/knowledge-base">打开我的知识库</a> · <a href="https://github.com/youngting520/knowledge-base/blob/main/Skill%20%E6%8E%A8%E8%8D%90%E6%B8%85%E5%8D%95.md">Skill 推荐清单</a>
     </td>
   </tr>
 </table>
