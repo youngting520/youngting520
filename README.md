@@ -4,8 +4,8 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/youngting520/youngting520.github.io/blob/main/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/README.md"><img src="https://raw.githubusercontent.com/youngting520/youngting520/main/assets/smart-hardware-cover.png" width="100%" alt="智能硬件行业笔记"></a><br>
-      智能玩具的模型选型、硬件合作、成本与采购。<br>
-      <a href="https://github.com/youngting520/youngting520.github.io/blob/main/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/README.md">阅读 6 篇文章 →</a>
+      从录音设备、智能眼镜和儿童陪伴玩具看硬件品牌怎样选模型、算成本、决定采购。<br>
+      <a href="https://github.com/youngting520/youngting520.github.io/blob/main/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/README.md">阅读 4 份调研报告与 7 篇笔记 →</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/youngting520/knowledge-base"><img src="https://raw.githubusercontent.com/youngting520/knowledge-base/main/assets/knowledge-base-cover.jpg" width="100%" alt="我的知识库"></a><br>
