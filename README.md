@@ -1,7 +1,19 @@
-## 文章合集 · 6 篇
+## 文章与知识库
 
-**[智能硬件行业知识分享 · 查看目录](https://github.com/youngting520/youngting520.github.io/blob/main/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/README.md)**<br>
-从千问与涂鸦、广和通的合作，到智能玩具的模型选型、成本和采购。
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/youngting520/douyin-knowledge#主题目录"><img src="https://raw.githubusercontent.com/youngting520/youngting520/main/assets/douyin-knowledge-cover.png" width="100%" alt="抖音知识库"></a><br>
+      从抖音收藏和点赞里整理出的教程、练习和实用方法。<br>
+      <a href="https://github.com/youngting520/douyin-knowledge#主题目录">浏览 8 个主题 →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/youngting520/youngting520.github.io/blob/main/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/README.md"><img src="https://raw.githubusercontent.com/youngting520/youngting520/main/assets/smart-hardware-cover.png" width="100%" alt="智能硬件行业笔记"></a><br>
+      智能玩具的模型选型、硬件合作、成本与采购。<br>
+      <a href="https://github.com/youngting520/youngting520.github.io/blob/main/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/README.md">阅读 6 篇文章 →</a>
+    </td>
+  </tr>
+</table>
 
 ## 最新文章
 
