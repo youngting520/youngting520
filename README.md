@@ -10,7 +10,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/youngting520/knowledge-base"><img src="https://raw.githubusercontent.com/youngting520/knowledge-base/main/assets/knowledge-base-cover.jpg" width="100%" alt="我的知识库"></a><br>
       收录 AI 与效率、音乐与乐理、绘画与手工、英语与语言、编程与数码、文学与人文、摄影与影像、学习与教育八类笔记，附实用 Skill 清单。<br>
-      <a href="https://github.com/youngting520/knowledge-base">打开我的知识库 →</a>
+      <a href="https://github.com/youngting520/knowledge-base">打开我的知识库 →</a> · <a href="https://github.com/youngting520/knowledge-base/blob/main/%E5%BE%88%E9%A1%B6%E7%9A%84Skill%E6%8E%A8%E8%8D%90.md">很顶的Skill推荐</a>
     </td>
   </tr>
 </table>
